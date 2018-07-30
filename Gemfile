@@ -66,3 +66,8 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 #User-gems
 gem 'haml'
+#Reuired by Bootstrap
+gem 'popper_js'
+gem 'jquery-rails'
+
+gem 'bootstrap'
